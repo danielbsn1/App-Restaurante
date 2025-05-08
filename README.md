@@ -1,2 +1,2 @@
 # App Restaurante
-Primeiro repositorio do projeto
+Primeiro projeto desenvolvido em phyton
