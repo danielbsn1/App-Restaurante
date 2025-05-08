@@ -1,2 +1,2 @@
 # App Restaurante
-Primeiro projeto desenvolvido em phyton
+Primeiro projeto desenvolvido phyton
